@@ -1,6 +1,6 @@
-### Hi there, this is the GitHub of <a href="https://toonshub.xyz">ToonsHub</a> 👋
+### <a href="https://toonshub.xyz">ToonsHub</a> 👋
 [![https://toonshub.xyz](https://img.shields.io/website?label=toonshub.xyz&style=for-the-badge&url=https%3A%2F%2Fexample.com)](https://toonshub.xyz)<br><br>
-<br>
+
 ## Connect with us:
 
 <p align="left">
