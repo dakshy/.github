@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram"/>
   </a>
   <a href="https://twitter.com/toonshub">
-    <img src="https://img.shields.io/badge/Twitter-#00acee?style=for-the-badge&logo=twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-%2300acee?style=for-the-badge&logo=twitter"/>
   </a>
 </p>
 
